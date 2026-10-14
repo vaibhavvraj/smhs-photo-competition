@@ -1,7 +1,7 @@
 "use strict";
 
 // Change this single date to move the submission deadline.
-const deadline = new Date("October 20, 2026 23:59:59 GMT+0530");
+const deadline = new Date("October 21, 2026 23:59:59 GMT+0530");
 
 const menuToggle = document.querySelector(".menu-toggle");
 const navigation = document.querySelector(".nav-links");
